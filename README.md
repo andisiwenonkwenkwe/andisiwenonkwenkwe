@@ -11,7 +11,7 @@ I'm a newly graduated professional with a passion for software development. I ha
 - JavaScript
 - HTML and CSS
 - Node.js
-- React.js
+- React js
 
 ## Education
 - **Majali Technical High School** - Matric
@@ -33,15 +33,14 @@ I'm a newly graduated professional with a passion for software development. I ha
 
 ## Projects
 - **Website**: Designing a well-functioning website using HTML, CSS, and JavaScript.
-- **ChatApp**: Designing a ChatApp using Node.js.
+- **React Portfolio**: Designing a my personal portfolio using react.
 - **Banking App**: Designing a banking app using Python.
 
 ## Contact
 - **Location:** Cape Town, 7750
 - **Phone:** 0784171550
 - **Email:** andisiwenonkwenkwe30@gmail.com
+- **LinkedIn:** www.linkedin.com/in/andisiwe-nonkwenkwe
+- **Portfolio:** https://my-react-portfolio-15a81.web.app/
 
-## References
-- **Shady Frans**, CapaCiTi, Mentor - Shady.Frans@capaciti.org.za | 0725747147
-- **Afika Maliwa**, Capaciti, Manager - Afika.Maliwa@capaciti.org.za | 0786922178
-- **Mr T David**, Walter Sisulu University, IT Lecturer - daverisinamhodzi@gmail.com | 0813813823
+
