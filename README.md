@@ -17,19 +17,6 @@ I'm a newly graduated professional with a passion for software development. I ha
 - **Majali Technical High School** - Matric
 - **Walter Sisulu University** - ND: Information Technology (Software Development)
 
-## Experience
-### Junior Software Developer
-**Younglings Africa** | Cape Town, South Africa | Jan 2024 - Current
-- Developed applications and websites using HTML, CSS, and Java.
-- Continuously improved coding skills through regular training and practice.
-
-### Software Development Intern
-**Innovation Hub**
-- [Add your experience here]
-
-### Full Stack Software Developer Intern
-**Capaciti**
-- [Add your experience here]
 
 ## Projects
 - **Website**: Designing a well-functioning website using HTML, CSS, and JavaScript.
